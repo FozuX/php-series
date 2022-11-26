@@ -2,7 +2,7 @@
 Variable merupakan memori sementara untuk menyimpan data, nilai atau value, baik bertipe data string maupun numerik.
 <p> di php variable dibagi menjadi beberapa tipe data yaitu </p>
 <blockquote>
-	<p>Variable string</p>
+	<p>Variable string ✅</p>
 	<p>Variable Numerik</p>
 	<p>Variable Array</p>
 </blockquote>
