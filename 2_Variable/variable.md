@@ -20,12 +20,12 @@ Variable merupakan memori sementara untuk menyimpan data, nilai atau value, baik
 
 * Untuk melihat isi dari variable string, Dapat melihat nya menggunakan perintah echo lalu nama variable. contoh:
 ```php
-	echo $teks;
+ echo $teks;
 ```
 
 * Sedangkan untuk menyalin isi dari suatu variable :
 ```php
-	$salin = $teks;
+ $salin = $teks;
 ```
 * Dari pernyataan di atas maka akan terbentuk variable baru dengan nama ```$salin``` yang isi data nya adalah variable ```$teks.```
 
